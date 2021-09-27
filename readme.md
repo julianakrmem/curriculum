@@ -20,12 +20,15 @@ Guarulhos/SP
 
 - Sistema de Controle de versão _(git)_
 
+- React-Native
+
+- React
+
 ---
 
 **Linguagens:**
 
 - JavaScript
-- PHP
 
 ---
 
@@ -40,8 +43,11 @@ Guarulhos/SP
 
 ## Experência Profissional
 
-- 2021 - **Weboox / Estágio de Desenvolvedora**
+- **Weboox / Estágio de Desenvolvedora**
   > Desenvolvia paginas web utilizando WordPress / Javascript
+
+- 2021 - **Codificar**
+  > Desenvolvedora FullStack
 
 ## Alguns projetos que participei
 
