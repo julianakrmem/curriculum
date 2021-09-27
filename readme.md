@@ -41,7 +41,7 @@ Guarulhos/SP
 
 ---
 
-## Experência Profissional
+## Experiência Profissional
 
 - **Weboox / Estágio de Desenvolvedora**
   > Desenvolvia paginas web utilizando WordPress / Javascript
@@ -65,10 +65,10 @@ Guarulhos/SP
 
 ## Formação
 
-- **Lógica de Programação** - Bootcamp 3 mêses
+- **Lógica de Programação** - Bootcamp 3 meses
 
-- **Desenvolvimento Front-End** - Bootcamp 2 mêses
+- **Desenvolvimento Front-End** - Bootcamp 2 meses
 
-- **Programação em PHP** - Bootcamp 4 mêses
+- **Programação em PHP** - Bootcamp 4 meses
 
 - **Graduação** - Análise e Desenvolvimento de Sistemas - Anhembi Morumbi ( EAD ) - 2/5
